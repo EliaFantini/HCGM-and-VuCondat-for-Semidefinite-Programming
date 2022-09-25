@@ -82,5 +82,5 @@ Finally, run the two jupyter notebooks **Test_clustering.ipynb** and **Test_spar
 Python, Matplotlib, Jupyter notebooks, Scipy. Machine learning, Semidefinite programming, k-means clustering, Homotopy Conditional Gradient and Primal-dual hybrid gradient (Vu_Condat) methods, geometric embedding  for Sparsest Cut problem.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/EliaFantini/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://eliafantini.github.io/Portfolio/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/-elia-fantini/)
